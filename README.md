@@ -1,4 +1,8 @@
 # CPSC311Assignment1
+This is an application to modify bmp files.
 
-we have to create a application to modify bmp files
-we need to modify the files by increasing the rgb values, turning the picture into a gray picture, and increase rgb values by three time
+Functions:
+  1. Increasing / Decreasing rgb values of the bmp image
+  2. Turning the imp image into a grey image
+  3. Multiplying rgb values by three
+
